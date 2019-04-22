@@ -1,1 +1,4 @@
-FX Usage EDA - Analysing forecast,actuals & hedging of foriegn ccy around various commodity across year. 
+# FX Usage EDA 
+## Analysing forecast,actuals & hedging of foriegn ccy around various commodity across year. 
+
+[forex-and-Treasury-Management.jpg](images/forex-and-Treasury-Management.jpg)
